@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Simple_Bookshelf_Sorter/1.0.0": {
+        "runtime": {
+          "Simple_Bookshelf_Sorter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Simple_Bookshelf_Sorter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
