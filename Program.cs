@@ -3,13 +3,6 @@ using System.Collections.Generic;
 
 namespace Simple_Bookshelf_Sorter
 {
-    class UserInput
-    {
-        public SortedDictionary<string, string> bookShelf = new SortedDictionary<string, string>();
-        public string bookTitle;
-        public string bookAuthor;
-        public string choice;
-    }
     class Program
     {
         static void Main(string[] args)
